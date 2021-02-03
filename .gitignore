@@ -8,7 +8,9 @@
 **/.DS_Store
 **.log
 node_modules
-
+**/.cache-loader
+**/CHANGELOG.md
+**/CODE_OF_CONDUCT.md
 # Whitelist wp-content/themes/insperity-events and wp-content/mu-plugins/ 
 # trailing "/" is optional for folders, may match file though.
 # "/" is NOT optional when followed by a *
@@ -17,5 +19,7 @@ wp-content/*
 !wp-content/mu-plugins
 !wp-content/themes
 wp-content/themes/*
+!wp-content/themes/samirjoza-base/
+!wp-content/themes/samirjoza-base/dist
 !wp-content/plugins
 wp-content/plugins/*
