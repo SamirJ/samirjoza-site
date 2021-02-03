@@ -1,0 +1,21 @@
+# Blacklist files/folders in same directory as the .gitignore file
+/*
+
+# Whitelist some files
+!.gitignore
+
+# Ignore all files named .DS_Store or ending with .log
+**/.DS_Store
+**.log
+node_modules
+
+# Whitelist wp-content/themes/insperity-events and wp-content/mu-plugins/ 
+# trailing "/" is optional for folders, may match file though.
+# "/" is NOT optional when followed by a *
+!wp-content
+wp-content/*
+!wp-content/mu-plugins
+!wp-content/themes
+wp-content/themes/*
+!wp-content/plugins
+wp-content/plugins/*
