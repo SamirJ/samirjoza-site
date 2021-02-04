@@ -14,6 +14,7 @@ class ComposerStaticInita1e68fbefaa9e1acf0fc469c843026c8
         '320cde22f66dd4f5d3fd621d3e88b98f' => __DIR__ . '/..' . '/symfony/polyfill-ctype/bootstrap.php',
         'e39a8b23c42d4e1452234d762b03835a' => __DIR__ . '/..' . '/ramsey/uuid/src/functions.php',
         'b50336562d531777993d90ca775abd88' => __DIR__ . '/..' . '/soberwp/controller/controller.php',
+        'beda72a3bff40d61ed819c75025fda66' => __DIR__ . '/..' . '/mwdelaney/sage-bootstrap4-navwalker/bootstrap4-navwalker.php',
     );
 
     public static $prefixLengthsPsr4 = array (

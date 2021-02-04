@@ -1,12 +1,12 @@
 <?php return array (
   'root' => 
   array (
-    'pretty_version' => '9.0.10',
-    'version' => '9.0.10.0',
+    'pretty_version' => 'dev-main',
+    'version' => 'dev-main',
     'aliases' => 
     array (
     ),
-    'reference' => NULL,
+    'reference' => '6cc0a2b9010f6e783947c81cc7b056100d8a9ac4',
     'name' => 'roots/sage',
   ),
   'versions' => 
@@ -119,6 +119,15 @@
       ),
       'reference' => '429be50660ed8a196e0798e5939760f168ec8ce9',
     ),
+    'mwdelaney/sage-bootstrap4-navwalker' => 
+    array (
+      'pretty_version' => '1.7',
+      'version' => '1.7.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '3a198858899980276bcba3dbf9bbdaf2c5d6837f',
+    ),
     'nesbot/carbon' => 
     array (
       'pretty_version' => '1.25.3',
@@ -189,12 +198,12 @@
     ),
     'roots/sage' => 
     array (
-      'pretty_version' => '9.0.10',
-      'version' => '9.0.10.0',
+      'pretty_version' => 'dev-main',
+      'version' => 'dev-main',
       'aliases' => 
       array (
       ),
-      'reference' => NULL,
+      'reference' => '6cc0a2b9010f6e783947c81cc7b056100d8a9ac4',
     ),
     'roots/sage-installer' => 
     array (
