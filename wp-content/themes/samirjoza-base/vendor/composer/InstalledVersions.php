@@ -29,7 +29,7 @@ private static $installed = array (
     'aliases' => 
     array (
     ),
-    'reference' => '6cc0a2b9010f6e783947c81cc7b056100d8a9ac4',
+    'reference' => '4a0c7927447528256da7f903a914337c2c39c497',
     'name' => 'roots/sage',
   ),
   'versions' => 
@@ -60,6 +60,15 @@ private static $installed = array (
       array (
       ),
       'reference' => '4650c8b30c753a76bf44fb2ed00117d6f367490c',
+    ),
+    'hassankhan/config' => 
+    array (
+      'pretty_version' => '1.1.0',
+      'version' => '1.1.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '930556337783acfd95bde723354119178db01d10',
     ),
     'illuminate/config' => 
     array (
@@ -133,6 +142,15 @@ private static $installed = array (
       ),
       'reference' => '60fd8f12340417a4312e5d90961510333d4f1d46',
     ),
+    'johnbillion/extended-cpts' => 
+    array (
+      'pretty_version' => '4.5.1',
+      'version' => '4.5.1.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => 'b8aef5ef64335d51784e391c9393145f50482fb4',
+    ),
     'kylekatarnls/update-helper' => 
     array (
       'pretty_version' => '1.2.1',
@@ -141,6 +159,24 @@ private static $installed = array (
       array (
       ),
       'reference' => '429be50660ed8a196e0798e5939760f168ec8ce9',
+    ),
+    'mwdelaney/sage-acf-gutenberg-blocks' => 
+    array (
+      'pretty_version' => '0.7',
+      'version' => '0.7.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '795527e63b45c8426741a074270355953b28ce37',
+    ),
+    'mwdelaney/sage-advanced-custom-fields' => 
+    array (
+      'pretty_version' => '1.6',
+      'version' => '1.6.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '96d21294fa1bbb090a1c8b8ae39f8dcf018d61cd',
     ),
     'mwdelaney/sage-bootstrap4-navwalker' => 
     array (
@@ -226,7 +262,7 @@ private static $installed = array (
       'aliases' => 
       array (
       ),
-      'reference' => '6cc0a2b9010f6e783947c81cc7b056100d8a9ac4',
+      'reference' => '4a0c7927447528256da7f903a914337c2c39c497',
     ),
     'roots/sage-installer' => 
     array (
@@ -268,6 +304,15 @@ private static $installed = array (
       array (
       ),
       'reference' => '4604826307b4e552c5fb69888ac882c3139dde81',
+    ),
+    'soberwp/models' => 
+    array (
+      'pretty_version' => '1.1.0-p',
+      'version' => '1.1.0.0-patch',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '66e1d933f638cf1bf725b523bad90be5afbab3c0',
     ),
     'squizlabs/php_codesniffer' => 
     array (
@@ -383,6 +428,15 @@ private static $installed = array (
       array (
         0 => '1.0',
       ),
+    ),
+    'symfony/yaml' => 
+    array (
+      'pretty_version' => 'v4.4.19',
+      'version' => '4.4.19.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '17ed9f14c1aa05b1a5cf2e2c5ef2d0be28058ef9',
     ),
   ),
 );
